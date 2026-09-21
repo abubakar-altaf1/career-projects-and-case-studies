@@ -1,6 +1,6 @@
-# 🏛️ career-projects-and-case-studies
+# 🏛️ Commercial Engineering & Production Case Studies
 
-This repository showcases commercial-grade web platforms, distributed AI workflows, and enterprise design engines built for live production environments. 
+This repository showcases commercial-grade web platforms, distributed AI workflows, and enterprise design engines built for live production environments.
 
 Each case study breaks down system architecture, core engineering challenges, technical stacks, and production outcomes.
 
@@ -20,6 +20,7 @@ Each case study breaks down system architecture, core engineering challenges, te
 * **Tech Stack:** `React.js` `TypeScript` `Node.js` `Figma Plugin API` `Abstract Syntax Trees (AST)`
 
 ### 🛠️ Architecture & Core Engineering
+
 ```mermaid
 flowchart LR
     A[Figma Canvas Node] -->|Figma Plugin API| B[AST Node Parser & Normalizer]
